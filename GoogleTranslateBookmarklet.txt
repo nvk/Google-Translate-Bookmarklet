@@ -1,0 +1,1 @@
+javascript:(function(){var%20t=window.getSelection?window.getSelection().toString():document.selection.createRange().text;%20window.open="http://translate.google.com/?hl=en#auto|en|"+t;})()
